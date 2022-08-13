@@ -1,6 +1,6 @@
-syntax on # highlight syntax
-set number # show line numbers
-set hlsearch # highlight all results
+syntax on 
+set number 
+set hlsearch
 
 " https://vimtricks.com/p/highlight-specific-lines/
 highlight LineHighlight ctermbg=darkgray guibg=darkgray
