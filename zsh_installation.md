@@ -20,3 +20,11 @@ chsh -s /usr/zsh
 ```
 sudo apt install fonts-firacode
 ```
+
+### 6. Not sure what these commands do
+```
+autoload -U compinit promptinit
+compinit
+promptinit
+```
+[Source for "not sure what these commands do" commands](https://www.linux.org/threads/kali-terminal-in-ubuntu.41410/)
