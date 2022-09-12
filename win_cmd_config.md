@@ -5,4 +5,4 @@ Add User Environment Variable (If you add as SYSTEM variable, it'll resolve the 
 PROMPT = `┌──(%username%㉿%computername%) - [ $p ] $_└─$+$g `
 
 ### How to Uninstall
-Delete the Env Variable. Ez
+Delete the PROMPT Variable. Ez
